@@ -40,7 +40,7 @@ This MultiBranches shows how to handle multiple braches in github. And also mana
 - Merge the branches.
 	- Switched to any brach
 		- git checkout master
-		- git merge branch 'Development'
+		- git merge Development
 		- git push
 		
 - Remove brach.
