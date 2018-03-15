@@ -21,7 +21,7 @@ This MultiBranches shows how to handle multiple braches in github. And also mana
 	- git brach --list
 	
 - New braches push to git.
-	- git --set--upstream origin Development
+	- git push --set-upstream origin Development
 	
 - Show the status.
 	- git status
